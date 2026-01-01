@@ -1,1 +1,0 @@
-# Comparison-between-kan-and-cnn-for-non-linear-data
