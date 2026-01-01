@@ -3,7 +3,6 @@
 
 This repository presents a **rigorous and leakage-free comparison** between a **Convolutional Neural Network (CNN)** and a **Kolmogorov–Arnold Network (KAN)** for **EEG-based biometric authentication**, using the PhysioNet EEG Motor Movement/Imagery dataset.
 
-The project is fully **reproducible, publication-ready**, and designed with **strict fairness constraints** to ensure a meaningful comparison.
 
 ---
 
@@ -14,7 +13,6 @@ The project is fully **reproducible, publication-ready**, and designed with **st
 - ✅ Identical preprocessing and feature pipelines
 - ✅ Cross-validation with statistical testing
 - ✅ ROC, AUC, EER, F1-score evaluation
-- ✅ GPU acceleration supported
 
 ---
 
@@ -173,15 +171,8 @@ Kolmogorov–Arnold Networks for EEG-Based Biometric Authentication:
 A Fair Architecture Comparison with CNNs
 ```
 
----
 
-## 👤 Author
 
-**Abhiroop Pamula**  
-B.Tech – Electronics & Communication Engineering  
-Amrita Vishwa Vidyapeetham  
-
----
 
 ## ⭐ Notes
 
@@ -191,5 +182,3 @@ Amrita Vishwa Vidyapeetham
 - Suitable for journal or conference submission
 
 ---
-
-**End of README**
